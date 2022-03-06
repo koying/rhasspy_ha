@@ -1,0 +1,9 @@
+{
+  "domain": "rhasspy",
+  "name": "Rhasspy",
+  "documentation": "https://www.home-assistant.io/integrations/google_translate",
+  "requirements": [],
+  "codeowners": ["@koying"],
+  "iot_class": "local_push",
+  "version": "1.0.0"
+}
